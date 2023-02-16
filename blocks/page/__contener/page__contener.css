@@ -1,0 +1,12 @@
+.page__contener {
+    max-width: 1280px;
+    margin: 0 auto;
+    color: #FFFFFF;
+    z-index: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
