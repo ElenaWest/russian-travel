@@ -40,14 +40,14 @@
 }
 @media screen and (max-width: 767px) {
   .cover__link {
-    min-height: 250px;
+    min-height: 350px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
   }
 }
 @media screen and (max-width: 424px) {
   .cover__link {
     min-height: 200px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
   }
 }
